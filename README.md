@@ -1,3 +1,8 @@
+👤 Integrantes
+**Jonata Rafael - RM552939
+**Diogo Julio - RM553837
+
+
 # 🎓 SkillUp API  
 API desenvolvida como parte da avaliação da disciplina de Engenharia de Software / FIAP.  
 O projeto simula uma plataforma de Upskilling e Reskilling, permitindo o cadastro de **Trilhas de Aprendizagem** e **Usuários**.
